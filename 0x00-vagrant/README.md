@@ -1,1 +1,0 @@
-Answer for vagrant task
