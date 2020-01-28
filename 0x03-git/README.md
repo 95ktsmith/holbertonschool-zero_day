@@ -1,1 +1,1 @@
-Uodated README.md for 0x03-git project.
+Directory for 0x03-git project.
